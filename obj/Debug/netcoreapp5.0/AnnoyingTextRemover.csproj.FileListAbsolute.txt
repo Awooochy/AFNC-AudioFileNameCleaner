@@ -1,0 +1,36 @@
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.exe
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.deps.json
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.runtimeconfig.json
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.runtimeconfig.dev.json
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\ref\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.pdb
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.AssemblyInfo.cs
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.CopyComplete
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\ref\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.pdb
+C:\Users\david\Desktop\Awooochy programs\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.genruntimeconfig.cache
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.exe
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.deps.json
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.runtimeconfig.json
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.runtimeconfig.dev.json
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\ref\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\bin\Debug\netcoreapp5.0\AnnoyingTextRemover.pdb
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.AssemblyInfo.cs
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.Fody.CopyLocal.cache
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\ref\AnnoyingTextRemover.dll
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.pdb
+C:\Users\david\Desktop\Awooochy programs\Programas custom\Annoying text remover\obj\Debug\netcoreapp5.0\AnnoyingTextRemover.genruntimeconfig.cache

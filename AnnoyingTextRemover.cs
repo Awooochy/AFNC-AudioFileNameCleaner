@@ -47,6 +47,27 @@ class Program
                     File.Move(file, newName);
                     count++;
                 }
+                else if (fileName.StartsWith("spotifydown.com - "))
+                {
+                    // Remove the website's text from the file name
+                    string newName = Path.Combine(Path.GetDirectoryName(file), fileName.Substring("spotifydown.com - ".Length));
+                    File.Move(file, newName);
+                    count++;
+                }
+                else if (fileName.StartsWith("-ytshorts.savetube.me"))
+                {
+                    // Remove the website's text from the file name
+                    string newName = Path.Combine(Path.GetDirectoryName(file), fileName.Substring("-ytshorts.savetube.me".Length));
+                    File.Move(file, newName);
+                    count++;
+                }
+                else if (fileName.StartsWith("(VEVIOZ.COM)"))
+                {
+                    // Remove the website's text from the file name
+                    string newName = Path.Combine(Path.GetDirectoryName(file), fileName.Substring("(VEVIOZ.COM)".Length));
+                     File.Move(file, newName);
+                    count++;
+                }
             }
 
             Console.WriteLine($"Done! The website's text has been removed from the file names of {count} files.");
